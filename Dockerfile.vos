@@ -1,4 +1,4 @@
-FROM openlink/vos_base:v0
+FROM openlink/virtuoso-opensource:vos_base
 
 ENV VIRT_HOME /opt/virtuoso-opensource
 ENV VIRT_DB /opt/virtuoso-opensource/var/lib/virtuoso/db
