@@ -1,6 +1,7 @@
 # Dockerizing Virtuoso
 
-To simplify deployment, Virtuoso Open Source Edition can be run in a [Docker](https://www.docker.com) container.
+To simplify deployment, Virtuoso Open Source Edition (VOS) can be run in a [Docker](https://www.docker.com) container. 
+The following notes describe running VOS standalone under Docker. When deployed as part of the FP3 Platform, VOS is started by the Platform via Docker Compose - see [p3-platform-reference-implementation](https://github.com/fusepoolP3/p3-platform-reference-implementation) for details.
 
 ## Obtaining VOS from Docker Hub
 
